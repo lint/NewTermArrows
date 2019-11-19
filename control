@@ -1,0 +1,9 @@
+Package: com.lint.ntarrows
+Name: NewTermArrows
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allows you to hold down the arrow keys to move the cursor in New Term.
+Maintainer: lint
+Author: lint
+Section: Tweaks
